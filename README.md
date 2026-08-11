@@ -31,7 +31,7 @@ AI Daily 是一个 Claude Code Skill，帮助你在 Claude Code 中快速获取 
 
 ```bash
 /plugin marketplace add geekjourneyx/ai-daily-skill
-/plugin install ai-daily@geekjourneyx-ai-daily-skill
+/plugin install ai-daily@ai-daily-tools
 ```
 
 ### 方式二：项目内使用
